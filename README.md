@@ -1,7 +1,8 @@
 1. Explanation API
+
     This is a simple FastAPI microservice that provides simplified explanations for technical concepts tailored to a specific audience (like a School students , etc.). It simulates how a Large Language Model (LLM) might generate explanations in real-time.
 
-2. Project Objective
+3. Project Objective
 
 The goal of this project is to demonstrate:
 
