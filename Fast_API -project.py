@@ -5,9 +5,6 @@ app = FastAPI()
 class ExplanationRequest(BaseModel):
     concept: str
     audience: str
-class ExplanationRequest(BaseModel):
-    concept: str
-    audience: str
 class ExplanationResponse(BaseModel):
     concept: str
     audience: str
